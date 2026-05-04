@@ -7,4 +7,4 @@ The core mechanism is entirely mechanical: to advance the calendar to the next d
 
 
 
-[inspiration | https://www.amazon.com/KENJIEY-Mechanical-Digital-Internal-Operated/dp/B0BVLL412Y?th=1]
+inspiration : https://www.amazon.com/KENJIEY-Mechanical-Digital-Internal-Operated/dp/B0BVLL412Y?th=1
