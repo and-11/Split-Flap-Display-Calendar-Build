@@ -264,3 +264,4 @@ Split-Flap-Calendar-Display/
 ## Inspiration
 
 https://www.amazon.com/KENJIEY-Mechanical-Digital-Internal-Operated/dp/B0BVLL412Y?th=1
+https://en.wikipedia.org/wiki/Split-flap_display
